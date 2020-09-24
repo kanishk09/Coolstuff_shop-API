@@ -1,0 +1,6 @@
+db.products.insert({"price":2256000,"title":"Tata Harrier","imgUrl":"https://images.carandbike.com/car-images/colors/tata/harrier/tata-harrier-telesto-grey.png?v=1586504725"})
+db.products.insert({"price":1044000,"title":"Ford Ecosport","imgUrl":"https://images.carandbike.com/car-images/colors/ford/ecosport/ford-ecosport-smoke-grey-thunder.png?v=1579610981"})
+db.products.insert({"price":2766000,"title":"Volkswagon Tiguan","imgUrl":"https://images.carandbike.com/car-images/large/volkswagen/tiguan-allspace/volkswagen-tiguan-allspace.jpg?v=12"})
+db.products.insert({"price":1034070,"title":"Hyndai Creta","imgUrl":"https://c.ndtvimg.com/2020-03/mg7m76ho_newgen-hyundai-creta-to-come-with-blue-link-connected-car-tech_625x300_04_March_20.jpeg"})
+db.products.insert({"price":2077070,"title":"Honda CR-V","imgUrl":"https://images.carandbike.com/car-images/large/honda/cr-v/honda-cr-v.jpg?v=17"})
+
